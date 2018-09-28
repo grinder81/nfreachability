@@ -15,5 +15,6 @@ Using iOS Network framework we can predict the reachability much smarter way
   s.ios.deployment_target = '12.0'
   s.source_files = 'Component/NFReachability.swift'
  
+  s.swift_version = '4.2'
   s.frameworks = 'Network'
 end
