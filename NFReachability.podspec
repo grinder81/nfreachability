@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'NFReachability'
-  s.version          = '0.3.0'
+  s.version          = '0.4.0'
   s.summary          = 'Using iOS Network framework we can predict the reachability much smarter way.'
  
   s.description      = <<-DESC
