@@ -13,7 +13,7 @@ Using iOS Network framework we can predict the reachability much smarter way
   s.source           = { :git => 'https://github.com/grinder81/nfreachability.git', :tag => s.version.to_s }
  
   s.ios.deployment_target = '12.0'
-  s.source_files = 'Component/NFReachability.swift'
+  s.source_files = 'Framework/NFReachability.swift'
  
   s.swift_version = '4.2'
   s.frameworks = 'Network'

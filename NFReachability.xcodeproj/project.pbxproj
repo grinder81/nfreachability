@@ -79,7 +79,7 @@
 		F8CFC1F6215D5D2F00E21A5E = {
 			isa = PBXGroup;
 			children = (
-				F8CFC230215D5D4D00E21A5E /* Component */,
+				F8CFC230215D5D4D00E21A5E /* Framework */,
 				F8CFC201215D5D2F00E21A5E /* NFReachability */,
 				F8CFC216215D5D3000E21A5E /* NFReachabilityTests */,
 				F8CFC221215D5D3000E21A5E /* NFReachabilityUITests */,
@@ -128,12 +128,12 @@
 			path = NFReachabilityUITests;
 			sourceTree = "<group>";
 		};
-		F8CFC230215D5D4D00E21A5E /* Component */ = {
+		F8CFC230215D5D4D00E21A5E /* Framework */ = {
 			isa = PBXGroup;
 			children = (
 				F8CFC231215D5D6A00E21A5E /* NFReachability.swift */,
 			);
-			path = Component;
+			path = Framework;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
